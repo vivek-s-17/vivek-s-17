@@ -75,3 +75,21 @@ I enjoy working at the intersection of **web development, AI, and security**, an
 ![OpenCV](https://img.shields.io/badge/OpenCV-555555?style=for-the-badge&logo=opencv&logoColor=CCCCCC)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-555555?style=for-the-badge&logo=scikitlearn&logoColor=CCCCCC)
 ![NumPy](https://img.shields.io/badge/Nu)
+
+
+
+---
+
+## 🏆 Leadership & Achievements  
+- University Student Council Core Team — Christ University  
+- Head of NCC — Christ University (2021–2024)  
+- Represented Bangalore B Group at Thal Sainik Camp (TSC)  
+- Attended Army Attachment Camp 2024  
+
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vivek-s-17&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=vivek-s-17&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-s-17&theme=dark&hide_border=false&layout=compact)
+
+---
