@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### 👋 Hi, I'm Vivek S  
 
-I'm an MCA student at **CHRIST (Deemed to be University), Bengaluru**, and a passionate software developer with hands-on experience in frontend development, machine learning, and cybersecurity-focused applications. I focus on building responsive web apps, intelligent detection systems, and secure, real-world platforms with strong emphasis on performance and usability.  
+I'm an MCA student at **CHRIST (Deemed to be University), Bengaluru**, and a passionate software developer with hands-on experience in frontend development, machine learning, and cybersecurity-focused applications. I focus on building responsive web apps, intelligent detection systems, and secure, real-world platforms with a strong emphasis on performance and usability.  
 
 Currently, I’m working as a **Frontend Developer Intern at Sensesys**, where I build dynamic UI components and secure user modules. I also have academic experience as a **Teaching Assistant**, supporting Machine Learning courses and creating technical learning content.  
 
@@ -40,7 +40,7 @@ I enjoy working at the intersection of **web development, AI, and security**, an
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viveksreenivas)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/callmev_i_s_h_a_l)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/viveksreenivas)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viveksreenivas545@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/vivek-s-17)  
@@ -74,22 +74,4 @@ I enjoy working at the intersection of **web development, AI, and security**, an
 ### 🤖 Data & AI  
 ![OpenCV](https://img.shields.io/badge/OpenCV-555555?style=for-the-badge&logo=opencv&logoColor=CCCCCC)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-555555?style=for-the-badge&logo=scikitlearn&logoColor=CCCCCC)
-![NumPy](https://img.shields.io/badge/NumPy-555555?style=for-the-badge&logo=numpy&logoColor=CCCCCC)
-![Pandas](https://img.shields.io/badge/Pandas-555555?style=for-the-badge&logo=pandas&logoColor=CCCCCC)
-
----
-
-## 🏆 Leadership & Achievements  
-- University Student Council Core Team — Christ University  
-- Head of NCC — Christ University (2021–2024)  
-- Represented Bangalore B Group at Thal Sainik Camp (TSC)  
-- Attended Army Attachment Camp 2024  
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vivek-s-17&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=vivek-s-17&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-s-17&theme=dark&hide_border=false&layout=compact)
-
----
+![NumPy](https://img.shields.io/badge/Nu)
